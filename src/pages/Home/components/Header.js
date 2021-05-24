@@ -9,7 +9,7 @@ function Header(){
                         <a href='/'>Conecta Dev</a>
                     </div>
                     <div>
-                        <button> Novo post</button>
+                        <button> POST</button>
                         <span>img1</span>
                         <span>img2</span>
                     </div>
